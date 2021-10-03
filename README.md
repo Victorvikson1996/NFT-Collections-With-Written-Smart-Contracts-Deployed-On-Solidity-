@@ -9,6 +9,8 @@ This project demonstrates a basic NFT Smart Contract Deployed on Solidity If you
 Try running some of the following tasks:
 
 npx hardhat run scripts/deploy.js --network rinkeby //To Deploy on Rinkyby testnet and OpenseaTestnet
+
 npx hardhat run scripts/run.js
+
 npx hardhat help
 ```
